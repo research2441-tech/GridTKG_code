@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "GridTKG: temporal knowledge graph for unified OLTP/OLAP on power-grid data"
+version: 1.0.0
+license: MIT
+authors:
+  - name: "Rishab Chaturvedi"
+  - name: "N. Nagabhooshanam"
+  - name: "Prahalad Singh Parihar"
+  - name: "Nilesh Bhosle"
+  - name: "Supriya S"
+  - name: "V.S.N. Kumar"
+  - name: "Lei Wei"

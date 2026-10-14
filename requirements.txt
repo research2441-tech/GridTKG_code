@@ -1,0 +1,12 @@
+numpy>=2.0
+scipy>=1.13
+networkx>=3.3
+pandas>=2.2
+pandapower==3.5.6
+duckdb==1.5.6
+kuzu==0.11.3
+psycopg[binary]>=3.2
+torch==2.14.1
+scikit-learn>=1.5
+matplotlib>=3.9
+rdflib>=7.0
